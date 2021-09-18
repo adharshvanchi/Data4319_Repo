@@ -1,4 +1,4 @@
-# machine Learning Algorithms from Scratch
+# Machine Learning Algorithms from Scratch
 
 There are 10 models in this repository.
 
