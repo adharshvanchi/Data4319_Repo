@@ -1,2 +1,7 @@
-# Data4319_Repo
-Official Github Repository for Data 4319
+# machine Learning Algorithms from Scratch
+
+There are 10 models in this repository.
+
+1. KMeans Clustering([KMeans.ipynb])
+
+2. K-Nearest Neighbors on PIMA Diabetes Dataset ([KNN-diabetes.ipynb])
